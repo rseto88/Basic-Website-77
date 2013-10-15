@@ -1,0 +1,21 @@
+/* Main Navigation */
+li {
+  background: orange;
+  display: inline;
+  list-style: none;
+  margin: 20px 10px;
+  padding: 20px 10px;
+}
+
+a {
+  color: red;
+  font: 24px sans-serif bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;  
+}
+
+li:hover {
+  background: blue;
+  color: #fff; 
+} 
